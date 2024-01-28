@@ -1,4 +1,4 @@
-CS3704 SE Basics Workshop
+# CS3704 SE Basics Workshop
 
 Yasir Hassan
 
